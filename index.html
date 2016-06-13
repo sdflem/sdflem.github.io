@@ -1,1 +1,60 @@
-Scott D. Fleming
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html dir="ltr">
+    
+    <head>
+        <title>Scott D. Fleming</title>
+        <style type="text/css">
+            body, html { font-family:helvetica,arial,sans-serif; font-size:90%; }
+        </style>
+        <script src="http://ajax.googleapis.com/ajax/libs/dojo/1.5/dojo/dojo.xd.js"
+        djConfig="parseOnLoad: true">
+        </script>
+        <script type="text/javascript">
+            dojo.require("dijit.ProgressBar");
+            dojo.require("dojo.string");
+            dojo.require("dojo.parser");
+
+            var i = 0;
+            function download() {
+                if (window.jsProgress) {
+                    jsProgress.update({
+                        maximum: 20,
+                        progress: ++i,
+                        report:function(percent){
+                            return dojo.string.substitute("${0}", [this.maximum - this.progress + 1]);
+                        }
+                    });
+                    if (i < 20) {
+                        setTimeout(download, 1000);
+                    }
+                    else {
+                        window.location="http://www.cs.memphis.edu/~sdf/";
+                    }
+                }
+                else {
+                    setTimeout(download, 10);
+                }
+            }
+        </script>
+        <link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/dojo/1.5/dijit/themes/claro/claro.css"
+        />
+    </head>
+
+    
+    <body class=" claro " onload="download();" style="text-align:center; background-color: gray; padding: 0; margin: 0;">
+        <div style="width: 600px; padding: 0; border: 1px solid black; margin: auto auto 2em auto; background-color: white">
+            <br><br>
+            <h1>Scott D. Fleming has moved!</h1>
+            <h2>I am an Assitant Professor at the <a href="http://www.cs.memphis.edu/">University of Memphis</a>.</h2>
+            <h2>You will be redirected to my new homepage</h2>
+            <h2><a href="http://www.cs.memphis.edu/~sdf/">http://www.cs.memphis.edu/~sdf/</a></h2>
+            <h2>in:</h2>
+            <h3>
+                <div dojoType="dijit.ProgressBar" style="width:300px; margin: auto;" jsId="jsProgress" id="downloadProgress" maximum="20">
+                </div>
+            </h3>
+            <br><br><br>
+        </div>
+    </body>
+
+</html>
