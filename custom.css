@@ -1,6 +1,10 @@
 body {
 	max-height:1500px; 
-	background-color: #415466;
+	/*background-color:#507095;*/
+	/*background-color:#3B7AAD;*/
+  background-color:#90B8CB;
+/*  background-color: #BBE0F1;
+*/	/*background-color: #415466;*/
 }
 @media screen and (min-width: 359px) {
     .navbar-inverse .navbar-brand {
@@ -19,7 +23,10 @@ body {
 .navbar-inverse .navbar-brand {
 	font-weight: bold; 
 	font-variant:small-caps;
-	color:#BEE0FF;
+	/*color:#BEE0FF;*/
+	/*color:#3B7AAD;*/
+	/*color:#5c95c4;*/
+  color:#fff;
 	padding-left: 0;
 }
 .navbar-inverse .navbar-nav>li>a {
@@ -38,7 +45,8 @@ body {
 }
 .content {
   	max-width: 60em;
-	background-color:#d2d6dc;
+  	background-color:#fff;
+	/*background-color:#d2d6dc;*/
   	color:#000;
   	border: 1px solid transparent;
   	border-radius: 10px;
