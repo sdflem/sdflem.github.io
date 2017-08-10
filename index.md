@@ -1,5 +1,5 @@
 
-<img src="./scott-oregon-2016.png" alt="Scott (Oregon, 2016)" style="max-width: 400px; height: auto; float: right; border-radius: 10px; margin: 0 0 1.5em 0">
+<img src="./scott-oregon-2016.png" alt="Scott (Oregon, 2016)" style="max-width: 500px; height: auto; float: right; border-radius: 10px; margin: 0 0 1.5em 0">
 
 Assistant Professor  
 [Department of Computer Science](http://www.cs.memphis.edu/)  
