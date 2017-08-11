@@ -7,7 +7,7 @@ Assistant Professor
 Memphis, TN 38152
 
 [Scott.Fleming@memphis.edu](mailto:Scott.Fleming@memphis.edu)  
-Office: 303 [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25)
+Office: 303 [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25)  
 (901) 678-3142
 
 <div style="clear: both"></div>
