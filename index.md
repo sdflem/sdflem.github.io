@@ -15,6 +15,9 @@ Office: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 303
 
 ## Research
 
+My research areas of interest are software engineering and human&ndash;computer interaction.
+I direct the [Human-Oriented Software Engineering (Human-SE) Lab](https://human-se.github.io/).
+
 ### Human-Oriented Software Engineering
 
 My research is concerned with understanding the challenges that software developers face in performing their tasks, and to design tools that reduce errors and improve productivity. I take a human-centered approach, empirically studying developers to inspire and evaluate tools. I am interested in a variety of different programming populations, including experienced professionals, new computer science graduates, end-user programmers, and programming novices/learners.
