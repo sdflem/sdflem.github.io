@@ -11,7 +11,7 @@
 **Foraging and Navigations, Fundamentally: Developers' Predictions of Value and Cost**.
 David Piorkowski, Austin Z. Henley, Tahmid Nabi, Scott D. Fleming, Christopher Scaffidi, and Margaret Burnett.
 ACM SIGSOFT Int'l Symposium on the Foundations of Software Engineering.
-[doi](http://dx.doi.org/10.1145/2950290.2950302) | [pdf](http://dl.acm.org/authorize?N27514)
+[doi](http://dx.doi.org/10.1145/2950290.2950302) \| [pdf](http://dl.acm.org/authorize?N27514)
 
 * **xxx**  
 xxx  
