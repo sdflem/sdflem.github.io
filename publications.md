@@ -1,6 +1,8 @@
 
 ## Publications
 
+The following is a complete list of my publications.
+
 See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAAAAJ) and my [ACM author profile](http://portal.acm.org/author_page.cfm?id=81100588251) pages.
 
 ### 2017
