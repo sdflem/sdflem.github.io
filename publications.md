@@ -1,7 +1,7 @@
 
 ## Publications
 
-* **CHI 2017**  |
+**CHI 2017**  |
 **Toward Principles for the Design of Navigation Affordances in Code Editors: An Empirical Investigation**. |
 Austin Z. Henley, Scott D. Fleming, and Maria V. Luong. |
 ACM SIGCHI Conference on Human Factors in Computing Systems.  |
