@@ -11,8 +11,7 @@ ACM SIGCHI Conference on Human Factors in Computing Systems.
 
 ### 2016
 
-* **FSE 2016  
-_[ACM SIGSOFT Distinguished Paper Award](https://www.cs.ucdavis.edu/fse2016/#innovations)_**  
+* **FSE 2016 _[ACM SIGSOFT Distinguished Paper Award](https://www.cs.ucdavis.edu/fse2016/#innovations)_**  
 David Piorkowski, Austin Z. Henley, Tahmid Nabi, Scott D. Fleming, Christopher Scaffidi, and Margaret Burnett.
 "**Foraging and Navigations, Fundamentally: Developers' Predictions of Value and Cost**."
 ACM SIGSOFT Int'l Symposium on the Foundations of Software Engineering.  
@@ -24,8 +23,7 @@ Alka Singh, Austin Z. Henley, Scott D. Fleming, and Maria V. Luong.
 IEEE Int'l Conference on Software Maintenance and Evolution.  
 [doi](http://dx.doi.org/10.1109/ICSME.2016.84) | [pdf](http://www.cs.memphis.edu/~sdf/publications/Singh_et_al_ICSME_2016.pdf)
 
-* **VL/HCC 2016  
-_[Best Paper Award](https://sites.google.com/site/vlhcc2016/best-paper-award-and-honourable-mention)_**  
+* **VL/HCC 2016 _[Best Paper Award](https://sites.google.com/site/vlhcc2016/best-paper-award-and-honourable-mention)_**  
 Austin Z. Henley and Scott D. Fleming.
 "**Yestercode: Improving Code-Change Support in Visual Dataflow Programming Environments**".
 IEEE Symposium on Visual Languages and Human-Centric Computing  
