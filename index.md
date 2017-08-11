@@ -9,7 +9,7 @@ Director
 [Human-Oriented Software Engineering Lab](human-se.github.io)
 
 Office: 303 [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25)  
-Mail: 375 Dunn Hall, Memphis, TN 38152
+Mail: 375 Dunn Hall, Memphis, TN 38152  
 Phone: (901) 678-3142  
 Email: [Scott.Fleming@memphis.edu](mailto:Scott.Fleming@memphis.edu)
 
