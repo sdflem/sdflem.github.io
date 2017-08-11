@@ -14,7 +14,7 @@ Office: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 303
 <div style="clear: both"></div>
 
 
-[CV](#) \| [Publications](./publications) \| [Teaching](#)
+[CV](./scott-cv.pdf) \| [Publications](./publications) \| [Teaching](#)
 
 
 ## Research
