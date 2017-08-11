@@ -1,5 +1,5 @@
 <div style="max-width: 500px; margin: 0 1.5em 1.5em 1.5em; float: right;"><img src="./scott-oregon-2016.png" alt="Scott (Oregon, 2016)" style="border-radius: 10px"></div>
-<div style="min-width: 50%"></div>
+<div style="min-width: 50%">&nbsp;</div>
 Assistant Professor  
 [Department of Computer Science](http://www.cs.memphis.edu/)  
 [University of Memphis](http://www.memphis.edu/)  
