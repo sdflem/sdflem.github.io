@@ -3,13 +3,13 @@
 
 Assistant Professor  
 [Department of Computer Science](http://www.cs.memphis.edu/)  
-[University of Memphis](http://www.memphis.edu/)  
+[University of Memphis](http://www.memphis.edu/)
 
-[Scott.Fleming@memphis.edu](mailto:Scott.Fleming@memphis.edu)  
+[Scott.Fleming@memphis.edu](mailto:Scott.Fleming@memphis.edu)
 
-Office: 303 [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25)  
-Office Phone: (901) 678-3142  
-Snail Mail: 375 Dunn Hall, Memphis, TN 38152
+Office:  
+303 [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25)  
+Meetings by appointment
 
 <div style="clear: both"></div>
 
