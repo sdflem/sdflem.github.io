@@ -13,7 +13,6 @@ Office: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 303
 
 <div style="clear: both"></div>
 
----
 
 ## About Me
 
@@ -23,6 +22,7 @@ Broadly, my areas of interest are **software engineering**, **human&ndash;comput
 
 To accomplish these research goals, I direct the [**Human-Oriented Software Engineering (Human-SE) Lab**](http://human-se.github.io/).
 
+
 ## Links
 
 [CV](./scott-cv.pdf)  
@@ -31,6 +31,7 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 [Teaching](#)&mdash;*coming soon!*  
 [Bio](#)&mdash;*coming soon!*
 
----
+
+## &nbsp;
 
 &copy; Scott D. Fleming 2017
