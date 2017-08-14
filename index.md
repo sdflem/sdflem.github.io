@@ -33,7 +33,7 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 
 
 <div style="text-align: center; font-size: .75em; border-top: 1px solid #eaecef; margin-top: 32px">
-&copy; Scott D. Fleming 2017
+&copy; Scott D. Fleming 2017 &bull; Made with [GitHub Pages](https://pages.github.com/) and [Markdown](https://guides.github.com/features/mastering-markdown/)
 </div>
 
 
