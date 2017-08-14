@@ -33,4 +33,5 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 
 
 ---
+
 &copy; Scott D. Fleming 2017
