@@ -23,13 +23,13 @@ Broadly, my areas of interest are **software engineering**, **human&ndash;comput
 To accomplish these research goals, I direct the [**Human-Oriented Software Engineering (Human-SE) Lab**](http://human-se.github.io/).
 
 
-## Links
+## Find Out More
 
-[CV](./scott-cv.pdf)  
-[Projects](#)&mdash;*coming soon!*  
-[Publications](./publications)  
-[Teaching](#)&mdash;*coming soon!*  
-[Bio](#)&mdash;*coming soon!*
+* [CV](./scott-cv.pdf)  
+* [Projects](#)&mdash;*coming soon!*  
+* [Publications](./publications)  
+* [Teaching](#)&mdash;*coming soon!*  
+* [Bio](#)&mdash;*coming soon!*
 
 
 ---
