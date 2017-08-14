@@ -25,11 +25,11 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 
 ## Find Out More
 
-* [CV](./scott-cv.pdf)  
 * [Projects](#)&mdash;*coming soon!*  
 * [Publications](./publications)  
 * [Teaching](#)&mdash;*coming soon!*  
 * [Bio](#)&mdash;*coming soon!*
+* [CV](./scott-cv.pdf)  
 
 
 <div style="text-align: center; font-size: .75em; border-top: 1px solid #eaecef; margin-top: 32px">
