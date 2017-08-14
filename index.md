@@ -14,14 +14,13 @@ Office: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 303
 <div style="clear: both"></div>
 
 
-[CV](./scott-cv.pdf)  
-[Publications](./publications)  
-[Teaching](#)
-
-
 As a researcher and teacher, I aim to help people cope with the myriad challenges of effectively creating software.
 
 Broadly, my areas of interest are **software engineering**, **human&ndash;computer interaction (HCI)**, and **computing education**.
 
-To accomplish these research goals, I direct the [**Human-Oriented Software Engineering (Human-SE) Lab**](http://human-se.github.io/). Find descriptions of my research projects [here](http://human-se.github.io/).
+To accomplish these research goals, I direct the [**Human-Oriented Software Engineering (Human-SE) Lab**](http://human-se.github.io/).
 
+[CV](./scott-cv.pdf)  
+[Projects](#)&mdash;*coming soon!*  
+[Publications](./publications)  
+[Teaching](#)&mdash;*coming soon!*
