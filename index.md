@@ -1,4 +1,4 @@
-<div style="max-width: 400px; margin: 0 20px 20px 0; float: left;"><img src="./scott-oregon-2016.png" alt="Scott (Oregon, 2016)" style="border-radius: 10px"></div>
+<div style="max-width: 400px; margin: 0 20px 0 0; float: left;"><img src="./scott-oregon-2016.png" alt="Scott (Oregon, 2016)" style="border-radius: 10px"></div>
 <div style="min-width: 275px; margin: 20px 0 0 0; display: table"></div>
 
 Assistant Professor  
@@ -26,7 +26,8 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 [CV](./scott-cv.pdf)  
 [Projects](#)&mdash;*coming soon!*  
 [Publications](./publications)  
-[Teaching](#)&mdash;*coming soon!*
+[Teaching](#)&mdash;*coming soon!*  
+[Bio](#)&mdash;*coming soon!*
 
 ---
 
