@@ -32,6 +32,5 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 [Bio](#)&mdash;*coming soon!*
 
 
-## &nbsp;
-
+---
 &copy; Scott D. Fleming 2017
