@@ -32,7 +32,7 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 * [Bio](#)&mdash;*coming soon!*
 
 
-<div style="font-align: right; font-size: .75em; border-top: 1px solid #eaecef;">
+<div style="text-align: right; font-size: .75em; border-top: 1px solid #eaecef;">
 &copy; Scott D. Fleming 2017
 </div>
 
