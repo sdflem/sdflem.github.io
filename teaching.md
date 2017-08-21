@@ -1,7 +1,7 @@
 
 ## Teaching
 
-The following is a partial (*under construction!*) list of the courses I have taught.
+The following is a list of the college courses I have taught, including links to archived websites for each section.
 
 
 ### Undergraduate Courses
