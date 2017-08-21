@@ -1,7 +1,12 @@
 
 ## Teaching
 
-The following is a list of the college courses I have taught, including links to archived websites for each section.
+For the current semester, Fall 2017, I am teaching the following courses:
+
+* [Program Comprehension (COMP 7085/8085)](https://memphis-cs.github.io/comp-7085-8085/)
+* [CS Education Research (COMP 7999/8999)](https://memphis-cs.github.io/comp-7999-8999/)
+
+Below is a list of all the college courses I have taught in the past, including links to archived websites for each section.
 
 
 ### Undergraduate Courses
@@ -37,7 +42,6 @@ S13,
 S12
 
 * Program Comprehension (COMP 7085/8085)  
-[F17](https://memphis-cs.github.io/comp-7085-8085/),
 [F16](https://memphis-cs.github.io/comp-7085-8085-2016-fall/),
 [F15](https://memphis-cs.github.io/comp-7085-8085-2015-fall/),
 [F14](https://memphis-cs.github.io/comp-7085-8085-2014-fall/),
