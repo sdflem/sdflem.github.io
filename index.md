@@ -1,7 +1,7 @@
 <div style="max-width: 400px; margin: 0 20px 0 0; float: left;"><img src="./scott-oregon-2016.png" alt="Scott (Oregon, 2016)" style="border-radius: 10px"></div>
 <div style="min-width: 275px; margin: 20px 0 0 0; padding: 20px 0 0 0; display: table"></div>
 
-Assistant Professor  
+Associate Professor  
 [Department of Computer Science](http://www.cs.memphis.edu/)  
 [University of Memphis](http://www.memphis.edu/)  
 Memphis, TN 38152
