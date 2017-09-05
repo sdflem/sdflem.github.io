@@ -34,12 +34,12 @@ F13
 ### Graduate Courses
 
 * Foundations of Software Engineering (COMP/EECE 7012)  
-S17,
-S16,
-S15,
-S14,
-S13,
-S12
+[S17](https://memphis-cs.github.io/comp-eece-7012-2017-spring/),
+[S16](https://memphis-cs.github.io/comp-eece-7012-2016-spring/),
+[S15](https://memphis-cs.github.io/comp-eece-7012-2015-spring/),
+[S14](https://memphis-cs.github.io/comp-eece-7012-2014-spring/),
+[S13](https://memphis-cs.github.io/comp-eece-7012-8012-2013-spring/),
+[S12](https://memphis-cs.github.io/comp-eece-7012-8012-2012-spring/)
 
 * Program Comprehension (COMP 7085/8085)  
 [F16](https://memphis-cs.github.io/comp-7085-8085-2016-fall/),
