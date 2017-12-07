@@ -1,15 +1,14 @@
 
 ## Teaching
 
-For the current academic year (2017–2018), I am teaching the following courses.
+For the current academic year (2017–2018), I am teaching the following courses:
 
-**Fall 2017:**
-* [Program Comprehension (COMP 7085/8085)](https://memphis-cs.github.io/comp-7085-8085/)
-* [CS Education Research (COMP 7999/8999)](https://memphis-cs.github.io/comp-7999-8999/)
-
-**Spring 2018:**
-* [Capstone Software Project (COMP 4882)](https://memphis-cs.github.io/comp-4882/)
-* [Foundations of Software Engineering (COMP 7012)](https://memphis-cs.github.io/comp-7012/)
+* Fall 2017:
+  - [Program Comprehension (COMP 7085/8085)](https://memphis-cs.github.io/comp-7085-8085/)
+  - [CS Education Research (COMP 7999/8999)](https://memphis-cs.github.io/comp-7999-8999/)
+* Spring 2018:
+  - [Capstone Software Project (COMP 4882)](https://memphis-cs.github.io/comp-4882/)
+  - [Foundations of Software Engineering (COMP 7012)](https://memphis-cs.github.io/comp-7012/)
 
 Below is a list of all the college courses I have taught in the past, including links to archived websites for each section.
 
