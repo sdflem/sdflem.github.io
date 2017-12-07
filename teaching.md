@@ -20,12 +20,12 @@ Below is a list of all the college courses I have taught in the past, including 
 [F11](https://memphis-cs.github.io/comp-eece-4081-2011-fall/)
 
 * Capstone Software Project (COMP 4882)  
-S17,
-S16,
-S15,
-S14,
-S13,
-S12
+[S17](https://memphis-cs.github.io/comp-4882-2017-spring/),
+[S16](https://memphis-cs.github.io/comp-4882-2016-spring/),
+[S15](https://memphis-cs.github.io/comp-4882-2015-spring/),
+[S14](https://memphis-cs.github.io/comp-4882-2014-spring/),
+[S13](https://memphis-cs.github.io/comp-4882-2013-spring/),
+[S12](https://memphis-cs.github.io/comp-4882-2012-spring/)
 
 * Programming Languages (COMP 4040)  
 F13
