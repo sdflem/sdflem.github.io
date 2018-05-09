@@ -83,7 +83,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **TOSEM 2013**
   - Scott D. Fleming, Christopher Scaffidi, David Piorkowski, Margaret Burnett, Rachel K. E. Bellamy, Joseph Lawrance, Irwin Kwan
   - **An Information Foraging Theory Perspective on Tools for Debugging, Refactoring, and Reuse Tasks**
-  - ACM Transactions on Software Engineering and Methodology. 22(2):14:1–14:41. ([doi](xxx), [pdf](xxx))
+  - ACM Transactions on Software Engineering and Methodology. 22(2):14:1–14:41. ([doi](https://doi.org/10.1145/2430545.2430551), [pdf](https://dl.acm.org/authorize?64857))
 
 - **TSE 2013**
   - Joseph Lawrance, Christopher Bogart, Margaret Burnett, Rachel Bellamy, Kyle Rector, Scott D. Fleming
