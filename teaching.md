@@ -13,7 +13,7 @@ Below is a list of all the college courses I have taught in the past, including 
 
 ## Undergraduate Courses
 
-- Software Engineering (COMP/EECE 4081): [F16](https://memphis-cs.github.io/comp-4081-2016-fall/),[F15](https://memphis-cs.github.io/comp-4081-2015-fall/), [F14](https://memphis-cs.github.io/comp-4081-2014-fall/), [F13](https://memphis-cs.github.io/comp-eece-4081-2013-fall/), [F12](https://memphis-cs.github.io/comp-eece-4081-2012-fall/), [F11](https://memphis-cs.github.io/comp-eece-4081-2011-fall/)
+- Software Engineering (COMP/EECE 4081): [F16](https://memphis-cs.github.io/comp-4081-2016-fall/), [F15](https://memphis-cs.github.io/comp-4081-2015-fall/), [F14](https://memphis-cs.github.io/comp-4081-2014-fall/), [F13](https://memphis-cs.github.io/comp-eece-4081-2013-fall/), [F12](https://memphis-cs.github.io/comp-eece-4081-2012-fall/), [F11](https://memphis-cs.github.io/comp-eece-4081-2011-fall/)
 
 - Capstone Software Project (COMP 4882): [S17](https://memphis-cs.github.io/comp-4882-2017-spring/), [S16](https://memphis-cs.github.io/comp-4882-2016-spring/), [S15](https://memphis-cs.github.io/comp-4882-2015-spring/), [S14](https://memphis-cs.github.io/comp-4882-2014-spring/), [S13](https://memphis-cs.github.io/comp-4882-2013-spring/), [S12](https://memphis-cs.github.io/comp-4882-2012-spring/)
 
