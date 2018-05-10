@@ -29,7 +29,3 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 - [Teaching](./teaching)
 - [Bio](#)&mdash;*coming soon!*
 - [CV](./scott-cv.pdf)  
-
-<div style="text-align: center; font-size: .75em; border-top: 1px solid #eaecef; margin-top: 32px">
-&copy; <a href="https://sdflem.github.io/">Scott D. Fleming</a> 2017&ndash;2018 &bull; Made with <a href="https://pages.github.com/">GitHub Pages</a> and <a href="https://guides.github.com/features/mastering-markdown/">Markdown</a>
-</div>
