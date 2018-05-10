@@ -61,7 +61,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **CHI 2014**
   - Austin Henley and Scott Fleming
   - **The Patchworks Code Editor: Toward Faster Navigation with Less Code Arranging and Fewer Navigation Mistakes**
-  - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://dx.doi.org/10.1145/2556288.2557073), [pdf](http://dl.acm.org/authorize?6905827))
+  - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://dx.doi.org/10.1145/2556288.2557073), [pdf](https://dl.acm.org/authorize?79218))
 
 ## 2013
 
@@ -78,7 +78,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **CHI 2013**
   - David Piorkowski, Scott D. Fleming, Irwin Kwan, Margaret Burnett, Chris Scaffidi, Rachel K.E. Bellamy, Joshua Jordhal
   - **The Whats and Hows of Programmers' Foraging Diets**
-  - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://doi.acm.org/10.1145/2466416.2466418), [pdf](http://dl.acm.org/authorize?6812561))
+  - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://doi.acm.org/10.1145/2466416.2466418), [pdf](https://dl.acm.org/authorize?75648))
 
 - **TOSEM 2013**
   - Scott D. Fleming, Christopher Scaffidi, David Piorkowski, Margaret Burnett, Rachel K. E. Bellamy, Joseph Lawrance, Irwin Kwan
@@ -100,7 +100,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **CHI 2012**
   - David Piorkowski, Scott D. Fleming, Christopher Scaffidi, Christopher Bogart, Margaret Burnett, Bonnie E. John, Rachel K. E. Bellamy, Calvin Swart
   - **Reactive Information Foraging: An Empirical Investigation of Theory-Based Recommender Systems for Programmers**
-  - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://dx.doi.org/10.1145/2207676.2208608), [pdf](http://dl.acm.org/authorize?6762879))
+  - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://dx.doi.org/10.1145/2207676.2208608), [pdf](https://dl.acm.org/authorize?60158))
 
 - **FutureCSD 2012**
   - Irwin Kwan, Scott D. Fleming, David Piorkowski
@@ -139,7 +139,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **ESEM 2010**
   - Margaret Burnett, Scott Fleming, Shamsi Iqbal, Gina Venolia, Vidya Rajaram, Umer Farooq, Valentina Grigoreanu, Mary Czerwinski
   - **Gender Differences and Programming Environments: Across Programming Populations**
-  - ACM-IEEE Int'l Symposium on Empirical Software Engineering and Measurement. ([doi](http://dx.doi.org/10.1145/1852786.1852824), [pdf](http://dl.acm.org/authorize?397893))
+  - ACM-IEEE Int'l Symposium on Empirical Software Engineering and Measurement. ([doi](http://dx.doi.org/10.1145/1852786.1852824), [pdf](https://dl.acm.org/authorize?65157))
 
 ## 2009
 
@@ -158,7 +158,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **SoftVis 2008**
   - Shaohua Xie, Eileen Kraemer, R. E. K. Stirewalt, Laura K. Dillon, Scott D. Fleming
   - **Assessing the Benefits of Synchronization-Adorned Sequence Diagrams: Two Controlled Experiments**
-  - ACM Symposium on Software Visualization. ([doi](http://dx.doi.org/10.1145/1409720.1409723), [pdf](http://dl.acm.org/authorize?007325))
+  - ACM Symposium on Software Visualization. ([doi](http://dx.doi.org/10.1145/1409720.1409723), [pdf](https://dl.acm.org/authorize?65158))
 
 - **ICPC 2008**
   - Scott D. Fleming, Eileen Kraemer, R. E. K. Stirewalt, Laura K. Dillon, Shaohua Xie
@@ -168,19 +168,19 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **ICSE 2008 SEE**
   - Scott D. Fleming, Eileen T. Kraemer, R. E. K. Stirewalt, Shaohua Xie, Laura K. Dillon
   - **A Study of Student Strategies for the Corrective Maintenance of Concurrent Software**
-  - Int'l Conference on Software Engineering Education Track. ([doi](http://dx.doi.org/10.1145/1368088.1368195), [pdf](http://dl.acm.org/authorize?063914))
+  - Int'l Conference on Software Engineering Education Track. ([doi](http://dx.doi.org/10.1145/1368088.1368195), [pdf](https://dl.acm.org/authorize?65159))
 
 - **MiSE 2008**
   - Laura K. Dillon, R. E. K. Stirewalt, Eileen Kraemer, Shaohua Xie, Scott D. Fleming
   - **Using Formal Models to Objectively Judge Quality of Multi-Threaded Programs in Empirical Studies**
-  - Workshop on Modeling in Software Engineering. ([doi](http://dx.doi.org/10.1145/1370731.1370740), [pdf](http://dl.acm.org/authorize?943025))
+  - Workshop on Modeling in Software Engineering. ([doi](http://dx.doi.org/10.1145/1370731.1370740), [pdf](https://dl.acm.org/authorize?65150))
 
 ## 2007
 
 - **WEASELTech 2007**
   - Scott D. Fleming, R. E. K. Stirewalt, Eileen T. Kraemer
   - **Toward a Task Model of Concurrent Software Maintenance**
-  - Workshop on Empirical Assessment of Software Engineering Languages and Technologies. ([doi](http://dx.doi.org/10.1145/1353673.1353679), [pdf](http://dl.acm.org/authorize?057994))
+  - Workshop on Empirical Assessment of Software Engineering Languages and Technologies. ([doi](http://dx.doi.org/10.1145/1353673.1353679), [pdf](https://dl.acm.org/authorize?65151))
 
 - **ACoM 2007**
   - Scott D. Fleming, R. E. K. Stirewalt, Laura K. Dillon
@@ -204,4 +204,4 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **DEAS 2005**
   - Scott D. Fleming, Betty H. C. Cheng, R. E. Kurt Stirewalt, Philip K. McKinley
   - **An Approach to Implementing Dynamic Adaptation in C++**
-  - Workshop on Design and Evolution of Autonomic Application Software. ([doi](http://dx.doi.org/10.1145/1083063.1083089), [pdf](http://dl.acm.org/authorize?873702))
+  - Workshop on Design and Evolution of Autonomic Application Software. ([doi](http://dx.doi.org/10.1145/1083063.1083089), [pdf](https://dl.acm.org/authorize?65152))
