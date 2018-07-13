@@ -27,5 +27,5 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 - [Projects](#)&mdash;*coming soon!*  
 - [Publications](./publications)  
 - [Teaching](./teaching)
-- [Bio](#)&mdash;*coming soon!*
+- [Bio](./bio)
 - [CV](./scott-cv.pdf)  
