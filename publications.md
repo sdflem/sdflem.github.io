@@ -7,7 +7,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 
 - **VL/HCC 2018**
   - Austin Z. Henley, Scott D. Fleming
-  - CodeDeviant: Helping Programmers Detect Edits That Accidentally Alter Program Behavior
+  - **CodeDeviant: Helping Programmers Detect Edits That Accidentally Alter Program Behavior**
   - IEEE Symposium on Visual Languages and Human-Centric Computing (to appear)
 
 - **CHI 2018**
