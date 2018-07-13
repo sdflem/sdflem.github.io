@@ -35,7 +35,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
   - IEEE Int'l Conference on Software Maintenance and Evolution. ([doi](http://dx.doi.org/10.1109/ICSME.2016.84), [pdf](http://www.cs.memphis.edu/~sdf/publications/Singh_et_al_ICSME_2016.pdf))
 
 - **VL/HCC 2016 - _[Best Paper Award](https://sites.google.com/site/vlhcc2016/best-paper-award-and-honourable-mention)_**
-  - Austin Z. Henley and Scott D. Fleming
+  - Austin Z. Henley, Scott D. Fleming
   - **Yestercode: Improving Code-Change Support in Visual Dataflow Programming Environments**
   - IEEE Symposium on Visual Languages and Human-Centric Computing ([doi](http://dx.doi.org/10.1109/VLHCC.2016.7739672), [pdf](http://www.cs.memphis.edu/~sdf/publications/Henley_and_Fleming_VLHCC_2016.pdf))
 
@@ -64,14 +64,14 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
   - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](http://dx.doi.org/10.1109/VLHCC.2014.6883026), [pdf](http://www.cs.memphis.edu/~sdf/publications/Henley_et_al_VLHCC_2014.pdf))
 
 - **CHI 2014**
-  - Austin Henley and Scott Fleming
+  - Austin Henley, Scott Fleming
   - **The Patchworks Code Editor: Toward Faster Navigation with Less Code Arranging and Fewer Navigation Mistakes**
   - ACM SIGCHI Conference on Human Factors in Computing Systems. ([doi](http://dx.doi.org/10.1145/2556288.2557073), [pdf](https://dl.acm.org/authorize?N658108))
 
 ## 2013
 
 - **VL/HCC 2013**
-  - Danielle Jones and Scott Fleming
+  - Danielle Jones, Scott Fleming
   - **What Use Is a Backseat Driver? A Grounded Theory Investigation of Pair Programming**
   - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](http://dx.doi.org/10.1109/VLHCC.2013.6645252), [pdf](http://www.cs.memphis.edu/~sdf/publications/Jones_and_Fleming_VLHCC_2013.pdf))
 
