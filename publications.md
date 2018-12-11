@@ -32,36 +32,36 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **ICSME 2016**
   - Alka Singh, Austin Z. Henley, Scott D. Fleming, Maria V. Luong
   - **An Empirical Evaluation of Models of Programmer Navigation**
-  - IEEE Int'l Conference on Software Maintenance and Evolution. ([doi](https://doi.org/10.1109/ICSME.2016.84), [pdf](http://www.cs.memphis.edu/~sdf/publications/Singh_et_al_ICSME_2016.pdf))
+  - IEEE Int'l Conference on Software Maintenance and Evolution. ([doi](https://doi.org/10.1109/ICSME.2016.84), [pdf](./publications/Singh_et_al_ICSME_2016.pdf))
 
 - **VL/HCC 2016 - _[Best Paper Award](https://sites.google.com/site/vlhcc2016/best-paper-award-and-honourable-mention)_**
   - Austin Z. Henley, Scott D. Fleming
   - **Yestercode: Improving Code-Change Support in Visual Dataflow Programming Environments**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing ([doi](https://doi.org/10.1109/VLHCC.2016.7739672), [pdf](http://www.cs.memphis.edu/~sdf/publications/Henley_and_Fleming_VLHCC_2016.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing ([doi](https://doi.org/10.1109/VLHCC.2016.7739672), [pdf](./publications/Henley_and_Fleming_VLHCC_2016.pdf))
 
 - **VL/HCC 2016**
   - Tahmid Nabi, Kyle M.D. Sweeney, Sam Lichlyter, David Piorkowski, Chris Scaffidi, Margaret Burnett, Scott D. Fleming
   - **Putting Information Foraging Theory to Work: Community-based Design Patterns for Programming Tools**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2016.7739675), [pdf](http://www.cs.memphis.edu/~sdf/publications/Nabi_et_al_VLHCC_2016.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2016.7739675), [pdf](./publications/Nabi_et_al_VLHCC_2016.pdf))
 
 ## 2015
 
 - **IwC 2015**
   - Jill Cao, Scott D. Fleming, Margaret Burnett, Christopher Scaffidi
   - **Idea Garden: Situated Support for Problem Solving by End-User Programmers**
-  - Interacting with Computers. 27(6):640–660. ([doi](https://doi.org/10.1093/iwc/iwu022), [pdf](http://www.cs.memphis.edu/~sdf/publications/Cao_et_al_IwC_2015.pdf))
+  - Interacting with Computers. 27(6):640–660. ([doi](https://doi.org/10.1093/iwc/iwu022), [pdf](./publications/Cao_et_al_IwC_2015.pdf))
 
 - **ICSME 2015**
   - David Piorkowski, Scott D. Fleming, Christopher Scaffidi, Margaret Burnett, Irwin Kwan, Austin Z. Henley, Jamie Macbeth, Charles Hill, Amber Horvath
   - **To Fix or to Learn? How Production Bias Affects Developers’ Information Foraging during Debugging**
-  - IEEE Int'l Conference on Software Maintenance and Evolution. ([doi](https://doi.org/10.1109/ICSM.2015.7332447), [pdf](http://www.cs.memphis.edu/~sdf/publications/Piorkowski_et_al_ICSME_2015.pdf))
+  - IEEE Int'l Conference on Software Maintenance and Evolution. ([doi](https://doi.org/10.1109/ICSM.2015.7332447), [pdf](./publications/Piorkowski_et_al_ICSME_2015.pdf))
 
 ## 2014
 
 - **VL/HCC 2014**
   - Austin Z. Henley, Alka Singh, Scott D. Fleming, Maria V. Luong
   - **Helping Programmers Navigate Code Faster with Patchworks: A Simulation Study**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2014.6883026), [pdf](http://www.cs.memphis.edu/~sdf/publications/Henley_et_al_VLHCC_2014.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2014.6883026), [pdf](./publications/Henley_et_al_VLHCC_2014.pdf))
 
 - **CHI 2014**
   - Austin Henley, Scott Fleming
@@ -73,12 +73,12 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **VL/HCC 2013**
   - Danielle Jones, Scott Fleming
   - **What Use Is a Backseat Driver? A Grounded Theory Investigation of Pair Programming**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2013.6645252), [pdf](http://www.cs.memphis.edu/~sdf/publications/Jones_and_Fleming_VLHCC_2013.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2013.6645252), [pdf](./publications/Jones_and_Fleming_VLHCC_2013.pdf))
 
 - **VL/HCC 2013**
   - Jill Cao, Irwin Kwan, Faezeh Bahmani, Margaret Burnett, Josh Jordahl, Amber Horvath, Scott Fleming, Sherry Yang
   - **End-User Programmers in Trouble: Can the Idea Garden Help Them to Help Themselves?**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2013.6645260), [pdf](http://www.cs.memphis.edu/~sdf/publications/Cao_et_al_VLHCC_2013.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2013.6645260), [pdf](./publications/Cao_et_al_VLHCC_2013.pdf))
 
 - **CHI 2013**
   - David Piorkowski, Scott D. Fleming, Irwin Kwan, Margaret Burnett, Chris Scaffidi, Rachel K.E. Bellamy, Joshua Jordhal
@@ -93,14 +93,14 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **TSE 2013**
   - Joseph Lawrance, Christopher Bogart, Margaret Burnett, Rachel Bellamy, Kyle Rector, Scott D. Fleming
   - **How Programmers Debug, Revisited: An Information Foraging Theory Perspective**
-  - IEEE Transactions on Software Engineering. 39(2):197–215. ([doi](https://doi.org/10.1109/TSE.2010.111), [pdf](http://www.cs.memphis.edu/~sdf/publications/Lawrance_et_al_TSE_Preprint_2010.pdf))
+  - IEEE Transactions on Software Engineering. 39(2):197–215. ([doi](https://doi.org/10.1109/TSE.2010.111), [pdf](./publications/Lawrance_et_al_TSE_Preprint_2010.pdf))
 
 ## 2012
 
 - **VL/HCC 2012**
   - Jill Cao, Irwin Kwan, Rachel White, Scott D. Fleming, Margaret Burnett, Christopher Scaffidi
   - **From Barriers to Learning in the Idea Garden: An Empirical Study**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2012.6344483), [pdf](http://www.cs.memphis.edu/~sdf/publications/Cao_et_al_VLHCC_2012.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2012.6344483), [pdf](./publications/Cao_et_al_VLHCC_2012.pdf))
 
 - **CHI 2012**
   - David Piorkowski, Scott D. Fleming, Christopher Scaffidi, Christopher Bogart, Margaret Burnett, Bonnie E. John, Rachel K. E. Bellamy, Calvin Swart
@@ -110,36 +110,36 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **FutureCSD 2012**
   - Irwin Kwan, Scott D. Fleming, David Piorkowski
   - **Information Foraging Theory for Collaborative Software Development**
-  - CSCW 2012 Workshop on The Future of Collaborative Software Development. ([pdf](http://www.cs.memphis.edu/~sdf/publications/Kwan_et_al_FutureCSD_2012.pdf))
+  - CSCW 2012 Workshop on The Future of Collaborative Software Development. ([pdf](./publications/Kwan_et_al_FutureCSD_2012.pdf))
 
 ## 2011
 
 - **VL/HCC 2011**
   - David Piorkowski, Scott D. Fleming, Christopher Scaffidi, Liza John, Christopher Bogart, Bonnie E. John, Margaret Burnett, Rachel Bellamy
   - **Modeling Programmer Navigation: A head-to-head empirical evaluation of predictive models**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2011.6070387), [pdf](http://www.cs.memphis.edu/~sdf/publications/Piorkowski_et_al_VLHCC_2011.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2011.6070387), [pdf](./publications/Piorkowski_et_al_VLHCC_2011.pdf))
 
 - **VL/HCC 2011 - _[Best Paper Award](http://www.cs.cmu.edu/~vlhcc2011/program/awards/)_**
   - Jill Cao, Scott D. Fleming, Margaret Burnett
   - **An Exploration of Design Opportunities for "Gardening" End-User Programmers' Ideas**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2011.6070375), [pdf](http://www.cs.memphis.edu/~sdf/publications/Cao_et_al_VLHCC_2011.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2011.6070375), [pdf](./publications/Cao_et_al_VLHCC_2011.pdf))
 
 - **IwC 2011**
   - Margaret M. Burnett, Laura Beckwith, Susan Wiedenbeck, Scott D. Fleming, Jill Cao, Thomas H. Park, Valentina Grigoreanu, Kyle Rector
   - **Gender Pluralism in Problem-Solving Software**
-  - Interacting with Computers. 23(5):450–460. ([doi](https://doi.org/10.1016/j.intcom.2011.06.004), [pdf](http://www.cs.memphis.edu/~sdf/publications/Burnett_et_al_IwC_2011.pdf))
+  - Interacting with Computers. 23(5):450–460. ([doi](https://doi.org/10.1016/j.intcom.2011.06.004), [pdf](./publications/Burnett_et_al_IwC_2011.pdf))
 
 ## 2010
 
 - **VL/HCC 2010**
   - Scott D. Fleming, Eileen Kraemer, R. E. K. Stirewalt, Laura K. Dillon
   - **Debugging Concurrent Software: A Study Using Multithreaded Sequence Diagrams**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2010.14), [pdf](http://www.cs.memphis.edu/~sdf/publications/Fleming_et_al_VLHCC_2010.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2010.14), [pdf](./publications/Fleming_et_al_VLHCC_2010.pdf))
 
 - **VL/HCC 2010**
   - Jill Cao, Kyle Rector, Thomas H. Park, Scott D. Fleming, Margaret Burnett, Susan Wiedenbeck
   - **A Debugging Perspective on End-User Mashup Programming**
-  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2010.29), [pdf](http://www.cs.memphis.edu/~sdf/publications/Cao_et_al_VLHCC_2010.pdf))
+  - IEEE Symposium on Visual Languages and Human-Centric Computing. ([doi](https://doi.org/10.1109/VLHCC.2010.29), [pdf](./publications/Cao_et_al_VLHCC_2010.pdf))
 
 - **ESEM 2010**
   - Margaret Burnett, Scott Fleming, Shamsi Iqbal, Gina Venolia, Vidya Rajaram, Umer Farooq, Valentina Grigoreanu, Mary Czerwinski
@@ -151,12 +151,12 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **IVS 2009**
   - Shaohua Xie, Eileen Kraemer, R. E. K. Stirewalt, Laura K. Dillon, Scott D. Fleming
   - **Design and Evaluation of Extensions to UML Sequence Diagrams for Modeling Multithreaded Interactions**
-  - Information Visualization, 8(2):120-136. ([doi](https://doi.org/10.1057/ivs.2009.6), [pdf](http://www.cs.memphis.edu/~sdf/publications/Xie_et_al_IVS_2009.pdf))
+  - Information Visualization, 8(2):120-136. ([doi](https://doi.org/10.1057/ivs.2009.6), [pdf](./publications/Xie_et_al_IVS_2009.pdf))
 
 - **PhD Thesis 2009**
   - Scott D. Fleming
   - **Successful Strategies for Debugging Concurrent Software: An Empirical Investigation**
-  - PhD thesis, Michigan State University, East Lansing, MI. ([pdf](http://www.cs.memphis.edu/~sdf/publications/Fleming-Dissertation.pdf))
+  - PhD thesis, Michigan State University, East Lansing, MI. ([pdf](./publications/Fleming-Dissertation.pdf))
 
 ## 2008
 
@@ -168,7 +168,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **ICPC 2008**
   - Scott D. Fleming, Eileen Kraemer, R. E. K. Stirewalt, Laura K. Dillon, Shaohua Xie
   - **Refining Existing Theories of Program Comprehension During Maintenance for Concurrent Software**
-  - IEEE Int'l Conference on Program Comprehension. ([doi](https://doi.org/10.1109/ICPC.2008.40), [pdf](http://www.cs.memphis.edu/~sdf/publications/Fleming_et_al_ICPC_2008.pdf))
+  - IEEE Int'l Conference on Program Comprehension. ([doi](https://doi.org/10.1109/ICPC.2008.40), [pdf](./publications/Fleming_et_al_ICPC_2008.pdf))
 
 - **ICSE 2008 SEE**
   - Scott D. Fleming, Eileen T. Kraemer, R. E. K. Stirewalt, Shaohua Xie, Laura K. Dillon
@@ -190,19 +190,19 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **ACoM 2007**
   - Scott D. Fleming, R. E. K. Stirewalt, Laura K. Dillon
   - **Using Program Families for Maintenance Experiments**
-  - Int'l Workshop on Assessment of Contemporary Modularization Techniques. ([doi](https://doi.org/10.1109/ACOM.2007.12), [pdf](http://www.cs.memphis.edu/~sdf/publications/Fleming_et_al_ACoM_2007.pdf))
+  - Int'l Workshop on Assessment of Contemporary Modularization Techniques. ([doi](https://doi.org/10.1109/ACOM.2007.12), [pdf](./publications/Fleming_et_al_ACoM_2007.pdf))
 
 ## 2006
 
 - **Tech Report 2006**
   - Scott D. Fleming, R. E. K. Stirewalt, Laura K. Dillon, Beata Sarna-Starosta
   - **Separating Syncrhonization Concerns with Frameworks and Generative Programming**
-  - Tech. Report MSU-CSE-06-34. Department of Computer Science, Michigan State University, East Lansing, MI. ([url](http://www.cse.msu.edu/cgi-user/web/tech/document?ID=678), [pdf](http://www.cs.memphis.edu/~sdf/publications/MSU-CSE-06-34.pdf))
+  - Tech. Report MSU-CSE-06-34. Department of Computer Science, Michigan State University, East Lansing, MI. ([url](http://www.cse.msu.edu/cgi-user/web/tech/document?ID=678), [pdf](./publications/MSU-CSE-06-34.pdf))
 
 - **Alloy 2006**
   - Laura K. Dillon, R. E. K. Stirewalt, Beata Sarna-Starosta, Scott D. Fleming
   - **Developing an Alloy Framework Akin to OO Frameworks**
-  - Alloy Workshop. ([url](http://alloy.mit.edu/workshop/papers.html), [pdf](http://www.cs.memphis.edu/~sdf/publications/Dillon_et_al_Alloy_2006.pdf))
+  - Alloy Workshop. ([url](http://alloy.mit.edu/workshop/papers.html), [pdf](./publications/Dillon_et_al_Alloy_2006.pdf))
 
 ## 2005
 
