@@ -3,6 +3,13 @@
 The following is a complete list of my publications.
 See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAAAAJ) and my [ACM author profile](http://portal.acm.org/author_page.cfm?id=81100588251) pages.
 
+## 2019
+
+- **Blocks and Beyond 2019**
+  - Andrew M. Olney, Scott D. Fleming
+  - **A Cognitive Load Perspective on the Design of Blocks Languages for Data Science**
+  - Blocks and Beyond 2019: Beyond Blocks. ([doi](https://doi.org/10.1109/BB48857.2019.8941224), [pdf](./publications/Olney_and_Fleming_Blocks_and_Beyond_2019.pdf))
+
 ## 2018
 
 - **VL/HCC 2018**
