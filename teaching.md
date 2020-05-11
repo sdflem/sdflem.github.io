@@ -1,6 +1,6 @@
 # Teaching
 
-For the current academic year (2018–2019), I am teaching the following courses:
+For the current academic year (2019–2020), I am teaching the following courses:
 
 - Fall 2019:
   - [Software Engineering (COMP 4081)](https://memphis-cs.github.io/comp-4081-2019-08fall/)
