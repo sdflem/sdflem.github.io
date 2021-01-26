@@ -10,6 +10,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
   - **Frequent, Timed Coding Tests for Training and Assessment of Full-Stack Web Development Skills: An Experience Report**
   - ACM Technical Symposium on Computer Science Education (to appear)
 
+- **SIGCSE 2021 Demo**
+  - Andrew M. Olney, Scott D. Fleming, Jillian Johnson
+  - **Learning Data Science with Blockly in JupyterLab**
+  - ACM Technical Symposium on Computer Science Education, Demos Track (to appear)
+
 ## 2019
 
 - **Blocks and Beyond 2019**
