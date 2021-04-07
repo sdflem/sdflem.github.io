@@ -8,12 +8,12 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **SIGCSE 2021**
   - Kathryn Bridson, Scott D. Fleming
   - **Frequent, Timed Coding Tests for Training and Assessment of Full-Stack Web Development Skills: An Experience Report**
-  - ACM Technical Symposium on Computer Science Education (to appear)
+  - ACM Technical Symposium on Computer Science Education ([doi](https://doi.org/10.1145/3408877.3432549), [pdf](https://dl.acm.org/doi/10.1145/3408877.3432549?cid=81100588251))
 
 - **SIGCSE 2021 Demo**
   - Andrew M. Olney, Scott D. Fleming, Jillian Johnson
   - **Learning Data Science with Blockly in JupyterLab**
-  - ACM Technical Symposium on Computer Science Education, Demos Track (to appear)
+  - ACM Technical Symposium on Computer Science Education, Demos Track ([doi](https://doi.org/10.1145/3408877.3439534))
 
 ## 2019
 
