@@ -3,6 +3,13 @@
 The following is a complete list of my publications.
 See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAAAAJ) and my [ACM author profile](http://portal.acm.org/author_page.cfm?id=81100588251) pages.
 
+## 2022
+
+- **SIGCSE 2022**
+  - Kathryn Bridson, Jeffrey Atkinson, Scott D. Fleming
+  - **Delivering Round-the-Clock Help to Software Engineering Students Using Discord: An Experience Report**
+  - ACM Technical Symposium on Computer Science Education ([doi](https://doi.org/10.1145/3478431.3499385))
+
 ## 2021
 
 - **SIGCSE 2021**
@@ -14,6 +21,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
   - Andrew M. Olney, Scott D. Fleming, Jillian Johnson
   - **Learning Data Science with Blockly in JupyterLab**
   - ACM Technical Symposium on Computer Science Education, Demos Track ([doi](https://doi.org/10.1145/3408877.3439534))
+
+- **CSEDM 2021**
+  - Andrew M. Olney, Scott D. Fleming
+  - **JupyterLab Extensions for Blocks Programming, Self-Explanations, and HTML Injection**
+  - Educational Data Mining in Computer Science Education Workshop ([pdf](http://ceur-ws.org/Vol-3051/CSEDM_8.pdf))
 
 ## 2019
 
