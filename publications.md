@@ -8,7 +8,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 - **SIGCSE 2022**
   - Kathryn Bridson, Jeffrey Atkinson, Scott D. Fleming
   - **Delivering Round-the-Clock Help to Software Engineering Students Using Discord: An Experience Report**
-  - ACM Technical Symposium on Computer Science Education ([doi](https://doi.org/10.1145/3478431.3499385))
+  - ACM Technical Symposium on Computer Science Education ([doi](https://doi.org/10.1145/3478431.3499385), [pdf](https://dl.acm.org/doi/10.1145/3478431.3499385?cid=81100588251))
 
 ## 2021
 
