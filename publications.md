@@ -145,7 +145,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 
 ## 2011
 
-- **VL/HCC 2011**
+- **VL/HCC 2011 - _[Most Influential Paper Award](https://conferences.computer.org/VLHCC/MIP/MIP.html)_**
   - David Piorkowski, Scott D. Fleming, Christopher Scaffidi, Liza John, Christopher Bogart, Bonnie E. John, Margaret Burnett, Rachel Bellamy
   - **Modeling Programmer Navigation: A head-to-head empirical evaluation of predictive models**
   - IEEE Symposium on Visual Languages and Human-Centric Computing ([doi](https://doi.org/10.1109/VLHCC.2011.6070387), [pdf](./publications/Piorkowski_et_al_VLHCC_2011.pdf))
