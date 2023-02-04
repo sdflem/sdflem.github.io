@@ -5,6 +5,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=kLNLkgkAA
 
 ## 2022
 
+- **ITS 2022**
+  - Vasile Rus, Peter Brusilovsky, Lasang Jimba Tamang, Kamil Akhuseyinoglu, Scott Fleming
+  - **DeepCode: An Annotated Set of Instructional Code Examples to Foster Deep Code Comprehension and Learning**
+  - International Conference on Intelligent Tutoring Systems ([doi](https://doi.org/10.1007/978-3-031-09680-8_4))
+
 - **SIGCSE 2022**
   - Kathryn Bridson, Jeffrey Atkinson, Scott D. Fleming
   - **Delivering Round-the-Clock Help to Software Engineering Students Using Discord: An Experience Report**
