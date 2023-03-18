@@ -10,7 +10,6 @@ Memphis, TN 38152
 
 [Scott.Fleming@memphis.edu](mailto:Scott.Fleming@memphis.edu)  
 Office: [Dunn Hall](http://map.memphis.edu/bldg.php?Building_Id=25), 303  
-(901) 678-3142
 
 <div style="clear: both"></div>
 
@@ -24,7 +23,6 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 
 ## Find Out More
 
-- [Projects](#)&mdash;*coming soon!*  
 - [Publications](./publications)  
 - [Teaching](./teaching)
 - [Bio](./bio)

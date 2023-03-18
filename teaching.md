@@ -3,10 +3,9 @@
 For the current academic year (2022–2023), I am teaching the following courses:
 
 - Fall 2022:
-  - Software Engineering (COMP 4081)
+  - [Foundations of Software Engineering (COMP 7012)](https://memphis-cs.github.io/comp-7012-2022-08fall/)
 - Spring 2023:
-  - Software Engineering (COMP 4081)
-  - Foundations of Software Engineering (COMP/EECE 7012)
+  - [Foundations of Software Engineering (COMP 7012)](https://memphis-cs.github.io/comp-7012-2023-01spring/)
 
 Below is a list of all the college courses I have taught in the past, including links to archived websites for each section.
 
