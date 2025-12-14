@@ -5,7 +5,7 @@
 
 Associate Professor and Chair  
 [Department of Computer Science](https://memphis.edu/cs/)  
-[University of Memphis](http://www.memphis.edu/)  
+[The University of Memphis](http://www.memphis.edu/)  
 Memphis, TN 38152
 
 [Scott.Fleming@memphis.edu](mailto:Scott.Fleming@memphis.edu)  
