@@ -23,7 +23,7 @@ To accomplish these research goals, I direct the [**Human-Oriented Software Engi
 
 ## Find Out More
 
-- [Publications](./publications)  
+- [Publications](./publications)
 - [Teaching](./teaching)
 - [Bio](./bio)
-- [CV](./scott-cv.pdf)  
+- [CV](./cv_scott_fleming.pdf)  
