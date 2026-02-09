@@ -5,7 +5,7 @@ For the current academic year, I am teaching the following courses:
 - **Fall 2025:**
   - [Foundations of Software Engineering (COMP 7012)](https://fse-f25-memphis.github.io/)
 - **Spring 2026:**
-  - ST: AI Tools for Software Development (COMP 4991)
+  - [ST: AI Tools for Software Development (COMP 4991/6991)](https://ai4sd-s26-memphis.github.io/)
 
 Below is a list of all the courses I have taught at [The University of Memphis](https://memphis.edu/).
 
